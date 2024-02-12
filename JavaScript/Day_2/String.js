@@ -65,14 +65,14 @@ console.log(n.indexOf('m'));
 
 
 /**
- * trim
+ * trim :- It remove the white spaces in string.
  */
 let word = " Aman ";
 console.log(word);
 console.log(word.trim());
 
 /**
- * split
+ * split :- It gives the array of string.
  */
 let f2 = "Aman kumar Dubey";
 console.log(f2.split(""));
