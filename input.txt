@@ -1,0 +1,2 @@
+Hello Student!
+How are you i am reading this file form the input.txt.
